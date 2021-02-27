@@ -12,5 +12,7 @@ namespace appLab1.DOMINIO
         private String User;
         private String pass;
 
+        public string User1 { get => User; set => User = value; }
+        public string Pass { get => pass; set => pass = value; }
     }
 }
