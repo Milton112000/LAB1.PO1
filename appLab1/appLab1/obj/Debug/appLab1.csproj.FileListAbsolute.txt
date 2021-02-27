@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\bin\Debug\appLab1.exe.config
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\bin\Debug\appLab1.exe
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\bin\Debug\appLab1.pdb
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\obj\Debug\appLab1.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\obj\Debug\appLab1.Form1.resources
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\obj\Debug\appLab1.Properties.Resources.resources
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\obj\Debug\appLab1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\obj\Debug\appLab1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\obj\Debug\appLab1.exe
+C:\Users\USUARIO\Documents\GitHub\LAB1.PO1\appLab1\appLab1\obj\Debug\appLab1.pdb

@@ -8,5 +8,8 @@ namespace appLab1.NEGOCIO
 {
     class ClsNegocio
     {
+
+
+
     }
 }
